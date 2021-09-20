@@ -10,6 +10,7 @@ git clone https://github.com/oceanofanythingofficial/Add-And-Remove-Google-Drive
 ### Download The Zip File [From Here](https://github.com/OCEANOFANYTHINGOFFICIAL/Add-And-Remove-Google-Drive-From-File-Explorer-Navigation-Panel/archive/refs/heads/main.zip)
 ### Seperately Download Two Files
 [Adder File(reg)](https://github.com/OCEANOFANYTHINGOFFICIAL/Add-And-Remove-Google-Drive-From-File-Explorer-Navigation-Panel/raw/main/Add.reg)
+<br>
 [Remover File(reg)](https://github.com/OCEANOFANYTHINGOFFICIAL/Add-And-Remove-Google-Drive-From-File-Explorer-Navigation-Panel/raw/main/Remove.reg)
 # Usage
 
