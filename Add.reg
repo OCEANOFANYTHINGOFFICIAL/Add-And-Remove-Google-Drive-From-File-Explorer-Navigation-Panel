@@ -1,11 +1,5 @@
 Windows Registry Editor Version 5.00
 
-; Created by: Shawn Brink
-; Created on: May 1st 2016
-; Updated on: December 5th 2018
-; Tutorial: https://www.tenforums.com/tutorials/48991-add-remove-google-drive-navigation-pane-windows-10-a.html
-
-
 [HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}]
 @="Google Drive"
 "System.IsPinnedToNamespaceTree"=dword:00000001
